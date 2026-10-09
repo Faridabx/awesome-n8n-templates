@@ -668,3 +668,6 @@ Contributions are welcome. If you have an n8n workflow template to share, please
 ---
 
 *Last updated: August 2026*
+## My GitHub Practice
+
+Learning how to use GitHub branches and pull requests.
